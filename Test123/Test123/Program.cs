@@ -14,13 +14,13 @@ namespace Test123
             Console.ReadKey(true);
 
             //Looping Feature
-            for (int i = 0; i < 100; i++)
-            {
-                if (i%2 == 0)
-                {
-                    i--;
-                }
-            }
+            //for (int i = 0; i < 100; i++)
+            //{
+            //    if (i%2 == 0)
+            //    {
+            //        i--;
+            //    }
+            //}
         }
     }
 }
