@@ -11,7 +11,7 @@ namespace Test123
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            
+            Console.ReadKey(true);
 
             //Looping Feature
             for (int i = 0; i < 100; i++)
@@ -21,8 +21,6 @@ namespace Test123
                     i--;
                 }
             }
-            
-            Console.ReadKey(true);
         }
     }
 }
