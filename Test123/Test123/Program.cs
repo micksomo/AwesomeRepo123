@@ -16,7 +16,6 @@ namespace Test123
             //Looping Feature
             for (int i = 0; i < 100; i++)
             {
-                //TODO: fix that stupid fork
                 if (i%2 == 0)
                 {
                     i--;
