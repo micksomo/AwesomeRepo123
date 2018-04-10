@@ -19,6 +19,7 @@ namespace Test123
                 if (i % 2 == 0)
                 {
                     i--;
+                    Console.WriteLine(i);
                 }
             }
         }
